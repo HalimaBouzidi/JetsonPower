@@ -1,2 +1,2 @@
 # JetsonPower
-Python framework for power monitoring and measurement on NVIDIA Jetson boards
+Python framework for power monitoring and scaling on NVIDIA Jetson boards
