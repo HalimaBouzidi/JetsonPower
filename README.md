@@ -1,5 +1,5 @@
 # JetsonPower
-Python framework for power consumption monitoring and scaling on NVIDIA Jetson boards
+Python framework for power consumption monitoring and clock frequency scaling on NVIDIA Jetson boards
 
 ## Requirements
 - You need to set your Jetson board with a JetPack version >= 5.0.1
